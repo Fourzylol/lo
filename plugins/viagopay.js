@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `╠═〘 PEMBAYARAN 〙 ═
 ╠═ Untuk Pembayaran Via GOPAY
-╠➥ *085730903853*
+╠➥ *085748600473*
 ║- Chat Owner Terlebebih
 ║ Dahulu
 ╠═〘 Fitur 〙 ═
@@ -20,9 +20,9 @@ let info = `╠═〘 PEMBAYARAN 〙 ═
 ╠➥ *DAN 200 LEBIH*
 ║   *FITUR LAINNYA*
 ║ 
-╠═ ©2021 wabot-aq
+╠═ ©2022 Fourxy
 ╠═ Scrip original by Nurutomo
-╠═〘 R-Txzy 〙 ═
+╠═〘 *Fourzy* 〙 ═
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Sewa Bot*', 'status@broadcast') 
