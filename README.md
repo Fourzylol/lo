@@ -29,7 +29,7 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/FourzyLol/lo
+> git clone https://github.com/Fourzylol/lo
 > cd lo
 > npm i
 > node run.js
