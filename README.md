@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/3d470e0949899403bddeb.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="https://telegra.ph/file/8d950bf2329b91b9a50a8.jpg" alt="Fourzy X RizkyDffy" width="300" />
 
 </p>
 <h1 align="center">Fourzy X DappaBotz</h1>
@@ -68,6 +68,8 @@ Simple WhatsApp Bot
  [`AlyaXzy`](https://wa.me/6289505165400)
 
  [`BOTCAHX`](https://wa.me/6282221792667)
+
+[`RizkyDffy`](Https://wa.me/6285156591459)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
