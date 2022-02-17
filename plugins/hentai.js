@@ -4,12 +4,12 @@ let handler = async (m, { conn, usedPrefix, command }) => {
    heum = await fetch(`https://api-alphabot.herokuapp.com/api/nsfw/hentai?apikey=Alphabot`)
    if (!heum) throw json
     json = await heum.buffer()
-   conn.sendButtonImg(m.chat, json, 'Wangy wangy wangy', '©Fourzy', 'NEXT', `${usedPrefix + command}`, m)
+   conn.sendButtonImg(m.chat, json, 'istighfar woi', '©Fourzy', 'NEXT', `${usedPrefix + command}`, m)
 }
 handler.help = ['hentai']
 handler.tags = ['hentai']
 
 handler.command = /^(hentai)$/i
-handler.limit = true
+handler.premiun = true
 
 module.exports = handler
