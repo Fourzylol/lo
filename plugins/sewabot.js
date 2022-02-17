@@ -13,6 +13,7 @@ Silahkan klik pada "List Harga" untuk melihat list.
 Pembayaran:
 Pulsa : 085748600473
 DANA : 085748600473
+Saweria : http://saweria.co/HkySmp
 `.trim()
     const button = {
         buttonText: 'List Harga',
