@@ -9,6 +9,8 @@ handler.tags = ['bokep']
 
 handler.command = /^(bkp)$/i
 handler.premium = true
+handler.group = false
+handler.private = false
 handler.register = true
 handler.limit = 30
 module.exports = handler
