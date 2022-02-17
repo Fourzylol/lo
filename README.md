@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/bad05a43a28d8bde0e7a4.mp4" alt="Fourzy X RizkyDffy" width="300" />
+<img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="Fourzy X RizkyDffy" width="300" />
 
 </p>
 <h1 align="center">Fourzy X DappaBotz</h1>
