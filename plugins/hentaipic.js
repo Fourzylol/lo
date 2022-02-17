@@ -6,5 +6,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 handler.help= ['hentaipic']
 handler.tags = ['hentai']
 
+handler.premium = true
+
 handler.command = /^hentai(pic)?$/i
 module.exports = handler
