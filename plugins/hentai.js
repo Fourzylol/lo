@@ -10,6 +10,6 @@ handler.help = ['hentai']
 handler.tags = ['hentai']
 
 handler.command = /^(hentai)$/i
-handler.premiun = true
+handler.premium = true
 
 module.exports = handler
