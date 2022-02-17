@@ -29,7 +29,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:;${Owner(/\n/g, '\\n')};;;
 FN:${FourzyBot(/\n/g, '\\n')}
-TEL;type=CELL;type=VOICE;waid=${number}:${6285748600473('+' +62 857 4860 0473).getNumber('international')}${onW.isBusiness ? `
+TEL;type=CELL;type=VOICE;waid=${number}:${6285748600473 '+' +62 857 4860 0473).getNumber('international')}${onW.isBusiness ? `
 X-WA-BIZ-NAME:${(this.contacts[njid].vname || this.getName(njid)).replace(/\n/, '\\n')}
 X-WA-BIZ-DESCRIPTION:${((await this.getBusinessProfile(njid)).description || '').replace(/\n/g, '\\n')}
 ` : ''}
@@ -41,7 +41,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:;${Rizky(/\n/g, '\\n')};;;
 FN:$Daffy(/\n/g, '\\n')}
-TEL;type=CELL;type=VOICE;waid=${number2}:${6285156591459('+' +62 851 5659 1459).getNumber('international')}${onW2.isBusiness ? `
+TEL;type=CELL;type=VOICE;waid=${number2}:${6285156591459 '+' +62 851 5659 1459).getNumber('international')}${onW2.isBusiness ? `
 X-WA-BIZ-NAME:${(this.contacts[njid2].vname || this.getName(njid2)).replace(/\n/, '\\n')}
 X-WA-BIZ-DESCRIPTION:${((await this.getBusinessProfile(njid2)).description || '').replace(/\n/g, '\\n')}
 ` : ''}
@@ -52,7 +52,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:;${Owner(/\n/g, '\\n')};;;
 FN:${.(/\n/g, '\\n')}
-TEL;type=CELL;type=VOICE;waid=${number3}:${6285748600473('+' +62 857 4860 0473).getNumber('international')}${onW3.isBusiness ? `
+TEL;type=CELL;type=VOICE;waid=${number3}:${6285748600473 '+' +62 857 4860 0473).getNumber('international')}${onW3.isBusiness ? `
 X-WA-BIZ-NAME:${(this.contacts[njid3].vname || this.getName(njid3)).replace(/\n/, '\\n')}
 X-WA-BIZ-DESCRIPTION:${((await this.getBusinessProfile(njid3)).description || '').replace(/\n/g, '\\n')}
 ` : ''}
@@ -64,7 +64,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:;${Rizky(/\n/g, '\\n')};;;
 FN:${Daffy(/\n/g, '\\n')}
-TEL;type=CELL;type=VOICE;waid=${number4}:${6285156591459('+' +62 851 5659 1459).getNumber('international')}${onW4.isBusiness ? `
+TEL;type=CELL;type=VOICE;waid=${number4}:${6285156591459 '+' +62 851 5659 1459).getNumber('international')}${onW4.isBusiness ? `
 X-WA-BIZ-NAME:${(this.contacts[njid4].vname || this.getName(njid4)).replace(/\n/, '\\n')}
 X-WA-BIZ-DESCRIPTION:${((await this.getBusinessProfile(njid4)).description || '').replace(/\n/g, '\\n')}
 ` : ''}
