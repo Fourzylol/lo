@@ -49,7 +49,7 @@ global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '©Fourzy' //change the watermark 
 global.image = 'https://telegra.ph/file/3d470e0949899403bddeb.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/15d2d3d32e8cb1c310f5e.jpg'
+global.thumbfoto = 'https://telegra.ph/file/217f4765574fb11116199.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
@@ -57,7 +57,7 @@ global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
 global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
 global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
 
-global.multiplier = 9999999 // Semakin tinggi, semakin sulit naik level
+global.multiplier = 999 // Semakin tinggi, semakin sulit naik level
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
